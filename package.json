@@ -33,7 +33,8 @@
     "lezer-julia": "github:lezer-parser/julia#dral-fixes"
   },
   "devDependencies": {
-    "@codemirror/buildhelper": "^0.1.0"
+    "@codemirror/buildhelper": "^0.1.0",
+    "rollup": "^2.63.0"
   },
   "repository": {
     "type": "git",
